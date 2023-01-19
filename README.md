@@ -1,16 +1,18 @@
 
-> ## Full Stack Developer orientada al desarrollo Back-end.
-## Hola! 👋. Mi nombre es Lila Bergamini. 
+> # Full Stack Developer orientada al desarrollo Back-end.
+### Hola! 👋 Mi nombre es Lila Bergamini. 
 
 
-🧠 Encuentro bienestar en resolver desafíos que me permitan aplicar pensamiento creativo - disruptivo. 
+🧠 Encuentro bienestar en resolver desafíos que me permitan aplicar pensamiento `creativo - disruptivo.` 
 Disfruto mucho el trabajo en equipo, si bien soy una persona completamente autónoma.
+
 **Me apasiona el mundo IT!**
 
 
 🌱 Actualmente me dedico a realizar proyectos independientes que me permiten avanzar en mi formación como programadora.
 
- ⌨️ Stack de Tecnologías
+ ⌨️ Stack de Tecnologías:
+ 
 El Bootcamp de Henry me ha permitido adquirir el conocimiento y la experiencia fundamental para despegar 🚀.
 Las principales tecnologías que manejo son:
 
@@ -28,8 +30,11 @@ Entre otras herramientas, cuento con conocimientos en:
 + Metodologías ágiles.
 + Inglés - B2.
 
-📫 Cómo encontrarme:
+### Para conocer más sobre mí y mi trabajo:
 
-Correo: lila.bergaminih@gmail.com
-Celular: +54 9 236 4413005
+[Linkedin](https://www.linkedin.com/in/lila-bergamini-90675b262/)
+
+lila.bergaminih@gmail.com
+
++54 9 236 4413005
 
