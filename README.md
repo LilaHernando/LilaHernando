@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**LilaHernando/LilaHernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ## Full Stack Developer orientada al desarrollo Back-end.
+## Hola! 👋. Mi nombre es Lila Bergamini. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Encuentro bienestar en resolver desafíos que me permitan aplicar pensamiento creativo - disruptivo. 
+Disfruto mucho el trabajo en equipo, si bien soy una persona completamente autónoma.
+**Me apasiona el mundo IT!**
+
+
+🌱 Actualmente me dedico a realizar proyectos independientes que me permiten avanzar en mi formación como programadora.
+
+ ⌨️ Stack de Tecnologías
+El Bootcamp de Henry me ha permitido adquirir el conocimiento y la experiencia fundamental para despegar 🚀.
+Las principales tecnologías que manejo son:
+
+ 
+ + Javascript
+ + React.js
+ + Node.js
+ + Express.js
+ + PostgreSQL
+ + Sequelize
+ + HTML
+ + CSS
+ 
+Entre otras herramientas, cuento con conocimientos en: 
++ Metodologías ágiles.
++ Inglés - B2.
+
+📫 Cómo encontrarme:
+
+Correo: lila.bergaminih@gmail.com
+Celular: +54 9 236 4413005
+
