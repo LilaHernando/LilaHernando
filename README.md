@@ -32,7 +32,7 @@ Entre otras herramientas, cuento con conocimientos en:
 
 ### Para conocer más sobre mí y mi trabajo:
 
-[Linkedin](https://www.linkedin.com/in/lila-bergamini-90675b262/)
+[Linkedin](https://www.linkedin.com/in/lilabergamini/)
 
 lila.bergaminih@gmail.com
 
