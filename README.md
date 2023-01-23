@@ -28,7 +28,7 @@ Las principales tecnologías que manejo son:
  
 Entre otras herramientas, cuento con conocimientos en: 
 + Metodologías ágiles.
-+ Inglés - B2.
++ Inglés.
 
 ### Para conocer más sobre mí y mi trabajo:
 
