@@ -34,7 +34,7 @@ Entre otras herramientas, cuento con conocimientos en:
 
 [Linkedin](https://www.linkedin.com/in/lilabergamini/)
 
-lila.bergaminih@gmail.com
+lila.hbergamini@gmail.com
 
 +54 9 236 4413005
 
